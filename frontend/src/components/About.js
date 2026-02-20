@@ -59,7 +59,7 @@ const About = () => {
               marginBottom={6}
               data-aos='fade-up'
             >
-              Hi, I'm Kirti, a passionate and driven second-year B.Tech student at Lovely Professional University, specializing in Computer Science and Engineering.
+              Hi, I'm Kirti, a passionate and driven third-year B.Tech student at Lovely Professional University, specializing in Computer Science and Engineering.
 
 As a budding Web Developer, I specialize in crafting seamless, user-friendly, and dynamic web applications. My skill set spans across front-end and back-end development, allowing me to deliver full-stack solutions that cater to real-world problems. I enjoy blending creativity with logic, ensuring every project is not only functional but also aesthetically appealing.
 
